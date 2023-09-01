@@ -34,7 +34,22 @@ Here are some ideas to get you started:
       <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </a>
   </div>
-
+<div align="center">
+     <h3>Technologies:</h3>
+     <a href="https://docs.microsoft.com/dotnet/framework/")>
+        <img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" />
+     </a>
+     <a href="https://git-scm.com/docs/git")>
+        <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+     </a>
+     <a href="https://code.visualstudio.com/docs")>
+        <img alt="visual studio code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+     </a>
+     <a href="https://docs.microsoft.com/visualstudio/windows/?view=vs-2019")>
+        <img alt="visual studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+     </a>
+  </div>
+  <br />
   <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="mailto:mocelin.leandro@gmail.com?subject=Contact")>
