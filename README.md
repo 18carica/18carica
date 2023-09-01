@@ -34,12 +34,18 @@ Here are some ideas to get you started:
       <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     </a>
   </div>
-<div>
-<a href="https://www.linkedin.com/in/leandro-mocelin-315ab865/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  <h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="mailto:mocelin.leandro@gmail.com?subject=Contact")>
+      <img alt="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/leandro-mocelin-315ab865")>
+      <img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a>
 </div>
-
 <br/>
-
+<hr>
 <div>
 <a href="https://github.com/18carica">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18carica&layout=compact&langs_count=7&theme=dracula"/>
