@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Leandro Mocelin
 
-:computer: Desenvolvedora de Sistemas <br/>
+:computer: Desenvolvedor de Sistemas <br/>
 
 
 <div>
