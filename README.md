@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
     <h3>Languages and Databases:</h3>
     <a href="https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170")>
-        <img alt="c++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+        <img alt="c++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)" />
     </a>
     <a href="https://developer.mozilla.org/docs/Web/CSS")>
       <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
