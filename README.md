@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Hi! :v: I'm Leandro Mocelin. :grinning: </h1>
 
-:computer: Desenvolvedor de Sistemas <br/>
+:computer: Jr Developer <br/>
 
 <div align="center">
     <h3>Languages and Databases:</h3>
