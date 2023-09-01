@@ -38,10 +38,10 @@ Here are some ideas to get you started:
   <h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="mailto:mocelin.leandro@gmail.com?subject=Contact")>
-      <img alt="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/mocelin-leandro")>
-      <img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  <a href="www.linkedin.com/in/mocelin-leandro">
+      <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
 </div>
 <br/>
