@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/18carica">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18carica&layout=compact&langs_count=7&theme=dracula"/>
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=18carica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <hr>
