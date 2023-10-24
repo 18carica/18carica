@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/6536b593035e8d1be72cb56a?variant=dark" alt="roadmap.sh"/></a>
 </div>
 <div>
-   <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6536b593035e8d1be72cb56a?variant=dark" alt="roadmap.sh"/></a>
+   [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6536b593035e8d1be72cb56a?variant=dark)](https://roadmap.sh)
 </div>
     <hr>
    
