@@ -6,7 +6,7 @@
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (4/6)!
 - 🌱 Atualmente estou aprendendo PHP e C++! :D
-- 🤔 Possuo interesse em Java, Go, Rust e C#...! 
+- 🤔 Possuo interesse em Java, Go, DBA e C#...! 
 - 📫 Você pode entrar em contato comigo em: [mocelin.leandro@gmail.com](mailto:mocelin.leandro@gmail.com)
 
 ## Habilidades
@@ -22,14 +22,18 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=microsoft-sql-server)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![NoSQL](https://img.shields.io/badge/-NoSQL-black?style=flat-square&logo=nosql)
+
 ![.NET](https://img.shields.io/badge/-.NET-black?style=flat-square&logo=dotnet)
 
 ## Ferramentas
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-black?style=flat-square&logo=codeblocks)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
 
 ## Principais Linguagens
 
@@ -40,6 +44,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mocelin-leandro)
 
 Obrigada pela visita, volte sempre! 😊
-
    
 ![Snake animation](https://github.com/juliannelicon/juliannelicon/blob/output/github-contribution-grid-snake.svg)
