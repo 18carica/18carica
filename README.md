@@ -30,12 +30,6 @@
 ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-black?style=flat-square&logo=codeblocks)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## GitHub Estatísticas
-
-<a href="https://github.com/18carica">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18carica&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=18carica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
 
 ## Principais Linguagens
 
