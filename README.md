@@ -9,14 +9,21 @@
 - 🤔 Possuo interesse em Java, Go, DBA e C#...! 
 - 📫 Você pode entrar em contato comigo em: [mocelin.leandro@gmail.com](mailto:mocelin.leandro@gmail.com)
 
-## Habilidades
+## Linguagens
 
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
+## Habilidades
+
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
+![Agile](https://img.shields.io/badge/-Agile-black?style=flat-square&logo=agile)
+![API](https://img.shields.io/badge/-API-black?style=flat-square&logo=api)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-black?style=flat-square&logo=visual-studio-code)
 
 ## Banco de Dados
 
@@ -44,5 +51,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mocelin-leandro)
 
 Obrigada pela visita, volte sempre! 😊
+
    
 ![Snake animation](https://github.com/juliannelicon/juliannelicon/blob/output/github-contribution-grid-snake.svg)
