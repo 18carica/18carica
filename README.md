@@ -4,10 +4,10 @@
 
 ## Sobre Mim
 
-- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (4/6)!
-- 🌱 Atualmente estou aprendendo PHP e C++! :D
-- 🤔 Possuo interesse em Java, DBA e C#...! 
-- 📫 Você pode entrar em contato comigo em: [mocelin.leandro@gmail.com](mailto:mocelin.leandro@gmail.com)
+- 🎓 Sou estudante no 4º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo!
+- 💻 Apaixonado por tecnologia e programação, atualmente estou aprimorando minhas habilidades em PHP e C++.
+- 🚀 Tenho interesse em expandir meus conhecimentos em linguagens como Java e C#, além de me aprofundar em bancos de dados e administração DBA.
+- 📫 Fique à vontade para entrar em contato comigo em: mocelin.leandro@gmail.com
 
 ## Linguagens
 
@@ -59,7 +59,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mocelin-leandro)
 
-Obrigada pela visita, volte sempre! 😊
-
-   
 ![Snake animation](https://github.com/juliannelicon/juliannelicon/blob/output/github-contribution-grid-snake.svg)
+
+Agradeço pela sua visita ao meu perfil! Se você gostou do que viu e quer acompanhar minhas atualizações, sinta-se à vontade para voltar sempre. 😊
