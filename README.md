@@ -20,14 +20,19 @@
 
 ## Habilidades
 
-- **GitHub Actions**: Automação de fluxo de trabalho, testes e CI/CD no GitHub.
+
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
-- **Agile / Scrum**: Metodologias ágeis para desenvolvimento de software.
+- **GitHub Actions**: Automação de fluxo de trabalho, testes e CI/CD no GitHub.
+
 ![Agile](https://img.shields.io/badge/-Agile-black?style=flat-square&logo=agile)
-- **RESTful APIs**: Design e consumo de APIs RESTful.
+- **Agile / Scrum**: Metodologias ágeis para desenvolvimento de software.
+
 ![API](https://img.shields.io/badge/-API-black?style=flat-square&logo=api)
-- **Clean Code**: Práticas de escrever código limpo e legível.
+- **RESTful APIs**: Design e consumo de APIs RESTful.
+
 ![Clean Code](https://img.shields.io/badge/-Clean%20Code-black?style=flat-square&logo=visual-studio-code)
+- **Clean Code**: Práticas de escrever código limpo e legível.
+
 
 ## Banco de Dados
 
