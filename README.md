@@ -6,7 +6,7 @@
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas (4/6)!
 - 🌱 Atualmente estou aprendendo PHP e C++! :D
-- 🤔 Possuo interesse em Java, Go, DBA e C#...! 
+- 🤔 Possuo interesse em Java, DBA e C#...! 
 - 📫 Você pode entrar em contato comigo em: [mocelin.leandro@gmail.com](mailto:mocelin.leandro@gmail.com)
 
 ## Linguagens
