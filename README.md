@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-- 🎓 Sou estudante no 4º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo!
+- 🎓 Sou estudante no 5º semestre de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo!
 - 💻 Apaixonado por tecnologia e programação, atualmente estou aprimorando minhas habilidades em PHP e C++.
 - 🚀 Tenho interesse em expandir meus conhecimentos em linguagens como Java e C#, além de me aprofundar em bancos de dados e administração DBA.
 - 📫 Fique à vontade para entrar em contato comigo em: mocelin.leandro@gmail.com
